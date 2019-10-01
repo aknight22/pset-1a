@@ -1,4 +1,68 @@
 h3 {
-    text-decoration: underline;
-    color: red;
+    color: black;
+    text-align: center;
 }
+
+body {
+    background-color: white;
+}
+
+p {
+    color: grey;
+    text-align: center;
+}
+/*universal selector for margin & padding, ask for more*/
+* {
+    margin: 5;
+    padding: 0;
+}
+/* class selectors below*/
+.section-subheader {
+    color: black;
+    font-size: 21px;
+    text-align:center;
+    font-weight: lighter;
+}
+
+.section-header {
+    color: black;
+    font-size: 26px;
+    text-align:center;
+    font-weight: lighter;
+}
+
+.table-header {
+    color:grey;
+    font-size: 26px;
+    text-align:center;
+    font-weight: lighter;
+}
+
+.section-content {
+    color:gray;
+    font-size: 14px;
+    text-align:center;
+    font-weight: lighter;
+}
+
+.table{
+  color:gray;
+  font-size: 14px;
+  text-align:center;
+}
+.list {
+  color:gray;
+  font-size: 14px;
+  text-align:center;
+  font-weight:lighter;
+}
+/*Across each of your pages, your website must include:
+Selectors
+At least 3 type selectors.
+At least 3 class selectors.
+At least 3 ID selectors.
+At least 1 attribute selector.
+At least 1 pseudo-class or pseudo-element selector.
+At least 1 combinator.
+Colors must mesh, fonts (types, sizes, and styles)
+ that are appealing*/
