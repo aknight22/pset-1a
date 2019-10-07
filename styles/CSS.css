@@ -25,17 +25,18 @@ p {
 }
 
 .section-header {
-    color: black;
+    color: #5E8BF2;
     font-size: 26px;
     text-align:center;
     font-weight: lighter;
+    font-style:
 }
 
 .table-header {
-    color:grey;
+    color:#A7C1EE;
     font-size: 26px;
-    text-align:center;
     font-weight: lighter;
+    text-align: center;
 }
 
 .section-content {
@@ -45,10 +46,16 @@ p {
     font-weight: lighter;
 }
 
-.table{
-  color:gray;
+.table-container {
+  width: 100%;
+}
+
+.table {
+  color:#A7C1EE;
   font-size: 14px;
   text-align:center;
+  width: 50%;
+  margin-left: 25%;
 }
 .list {
   color:gray;
@@ -57,9 +64,7 @@ p {
   font-weight:lighter;
 }
 /*Across each of your pages, your website must include:
-Selectors
 At least 3 type selectors.
-At least 3 class selectors.
 At least 3 ID selectors.
 At least 1 attribute selector.
 At least 1 pseudo-class or pseudo-element selector.
