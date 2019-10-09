@@ -119,11 +119,11 @@ nav a:hover{
     text-align:center;
 }  
 
-a["https://www.ucvts.tec.nj.us/domain/16#calendar4326/20190925/month"] {
+a[href="https://www.ucvts.tec.nj.us/domain/16#calendar4326/20190925/month"] {
     color:#00008B
 }     
 
-a["https://www.ucvts.tec.nj.us/"] {
+a[href="https://www.ucvts.tec.nj.us/"] {
     color:#00008B
 }
 /*Across each of your pages, your website must include:
