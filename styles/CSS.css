@@ -53,6 +53,7 @@ p {
   font-size: 14px;
   text-align:center;
   font-weight:lighter;
+  text-align: center;
 }
 
 header{
@@ -117,7 +118,14 @@ nav a:hover{
     font-size: 26px;
     text-align:center;
 }  
-    
+
+a["https://www.ucvts.tec.nj.us/domain/16#calendar4326/20190925/month"] {
+    color:#00008B
+}     
+
+a["https://www.ucvts.tec.nj.us/"] {
+    color:#00008B
+}
 /*Across each of your pages, your website must include:
 At least 1 attribute selector.
 Colors must mesh, fonts (types, sizes, and styles)
