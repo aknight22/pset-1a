@@ -56,17 +56,32 @@ p {
   font-weight:lighter;
 }
 
-.container {
-    width: 100%;
-    margin: 0;
-}
-
 header{
     background-color: #A7C1EE
 }
 
 nav{
-    float:center;
+    float:right;
+    margin:0
+}
+
+header :: after{
+    content: " ";
+    display: table;
+    clear:both; 
+}
+
+nav ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #section1 {
