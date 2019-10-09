@@ -57,11 +57,18 @@ p {
   width: 50%;
   margin-left: 25%;
 }
+
 .list {
   color:gray;
   font-size: 14px;
   text-align:center;
   font-weight:lighter;
+}
+
+.container {
+    width: 70px;
+    margin: 0;
+    background-color: #A7C1EE;
 }
 /*Across each of your pages, your website must include:
 At least 3 type selectors.
