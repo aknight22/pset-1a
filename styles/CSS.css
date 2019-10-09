@@ -26,7 +26,6 @@ p {
     font-size: 26px;
     text-align:center;
     font-weight: lighter;
-    font-style:
 }
 
 .table-header {
@@ -99,24 +98,28 @@ nav a:hover{
     color: #5E8BF2;
     font-size: 26px;
     text-align:center;
+    font-weight: lighter;
 }    
 
 #section2 {
     color: #5E8BF2;
     font-size: 26px;
     text-align:center;
+    font-weight: lighter;
 }  
 
 #section3 {
     color: #5E8BF2;
     font-size: 26px;
     text-align:center;
+    font-weight:lighter;
 }  
 
 #section4 {
     color: #5E8BF2;
     font-size: 26px;
     text-align:center;
+    font-weight: lighter;
 }  
 
 a[href="https://www.ucvts.tec.nj.us/domain/16#calendar4326/20190925/month"] {
@@ -126,7 +129,3 @@ a[href="https://www.ucvts.tec.nj.us/domain/16#calendar4326/20190925/month"] {
 a[href="https://www.ucvts.tec.nj.us/"] {
     color:#00008B
 }
-/*Across each of your pages, your website must include:
-At least 1 attribute selector.
-Colors must mesh, fonts (types, sizes, and styles)
- that are appealing*/
