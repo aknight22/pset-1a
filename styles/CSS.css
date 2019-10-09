@@ -69,6 +69,39 @@ header{
 nav{
     float:right;
 }
+
+#section1 {
+    color: #5E8BF2;
+    font-size: 26px;
+    text-align:center;
+    font-weight: lighter;
+    font-style:
+}    
+
+#section2 {
+    color: #5E8BF2;
+    font-size: 26px;
+    text-align:center;
+    font-weight: lighter;
+    font-style:
+}  
+
+#section3 {
+    color: #5E8BF2;
+    font-size: 26px;
+    text-align:center;
+    font-weight: lighter;
+    font-style:
+}  
+
+#section4 {
+    color: #5E8BF2;
+    font-size: 26px;
+    text-align:center;
+    font-weight: lighter;
+    font-style:
+}  
+    
 /*Across each of your pages, your website must include:
 At least 3 type selectors.
 At least 3 ID selectors.
