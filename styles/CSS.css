@@ -53,6 +53,7 @@ p {
   text-align:center;
   font-weight:lighter;
   text-align: center;
+  list-style-type: none;
 }
 
 header{
@@ -73,10 +74,11 @@ header ::after{
 nav ul{
     margin:0;
     padding:0;
-    list-style:none;
+    list-style-type:none;
 }
 
 nav li{
+    list-style-type:none;
     display: inline-block;
     margin-left: 35px;
     padding-top: 5px;
